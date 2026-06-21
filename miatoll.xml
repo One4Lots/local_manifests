@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device Tree -->
+  <project name="PixelExperience-Devices/device_xiaomi_miatoll" path="device/xiaomi/miatoll" remote="github" revision="thirteen-plus" />
+  <!-- Kernel -->
+  <project name="PixelExperience-Devices/kernel_xiaomi_sm6225" path="kernel/xiaomi/sm6225" remote="github" revision="thirteen-plus" />
+  <!-- Vendor -->
+  <project name="userariii/vendor_xiaomi_miatoll" path="vendor/xiaomi/miatoll" remote="github" revision="16" />
+</manifest>
